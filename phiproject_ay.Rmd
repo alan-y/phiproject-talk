@@ -3,7 +3,9 @@ title: "phiproject and planned developments"
 subtitle: "PHI useR Group Meeting"
 author: "Alan Yeung"
 date: "Friday 8th November 2019"
-output: powerpoint_presentation
+output:
+  powerpoint_presentation:
+    reference_doc: style.pptx
 ---
 
 ```{r setup, include=FALSE}
