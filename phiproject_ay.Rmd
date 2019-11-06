@@ -63,8 +63,9 @@ Mostly very [simple](https://github.com/Health-SocialCare-Scotland/phiproject/bl
 
 1. Create new project with phiproject template
 2. New features
-3. RStudio 1.2 vs RStudio < 1.2
-4. RMarkdown templates
+3. RMarkdown templates
+4. RStudio 1.2 vs RStudio < 1.2
+
 
 ## Planned Developments
 
